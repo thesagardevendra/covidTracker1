@@ -1,2 +1,2 @@
-# covidTracker1
+# CovidTracker
 Created with CodeSandbox

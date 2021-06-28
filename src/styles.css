@@ -1,0 +1,32 @@
+h1 {
+  text-align: center;
+}
+
+.covid {
+  font-family: sans-serif;
+  display: grid;
+  grid-template-columns: repeat(3, 0fr);
+}
+
+.main {
+  background-color: green;
+  text-align: center;
+
+  margin-left: 75%;
+  color: white;
+  font-size: 35px;
+  align-items: center;
+  width: 200px;
+  padding: 40px;
+  border-radius: 10px;
+  height: 200px;
+}
+
+.content {
+  font-size: 50px;
+  font-weight: 800;
+}
+
+.main:hover {
+  transform: scale(1.1);
+}
